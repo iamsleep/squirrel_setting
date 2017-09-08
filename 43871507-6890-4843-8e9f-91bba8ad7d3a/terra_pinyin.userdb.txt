@@ -2,176 +2,276 @@
 #@/db_name	terra_pinyin.userdb
 #@/db_type	userdb
 #@/rime_version	1.2.9
-#@/tick	89
+#@/tick	146
 #@/user_id	43871507-6890-4843-8e9f-91bba8ad7d3a
-a1 	阿	c=1 d=0.790571 t=89
-ai1 	哎	c=1 d=0.900325 t=89
-ba2 	拔	c=1 d=0.980199 t=89
-ban4 	辦	c=0 d=0.0798516 t=89
-bei4 ta1 	被他	c=0 d=0.0869358 t=89
-bian1 	邊	c=0 d=0.0927743 t=89
-bo1 	播	c=1 d=0.843665 t=89
-ce4 shi4 	測試	c=1 d=1.32086 t=89
-ce4 shi4 zhang4 hao4 	測試帳號	c=2 d=1.39885 t=89
-cheng2 li4 	成立	c=0 d=0.0932394 t=89
-chong2 	重	c=1 d=0.839457 t=89
-chong2 xin1 an1 zhuang1 	重新安裝	c=1 d=0.65377 t=89
-dai4 	帶	c=0 d=0.0718924 t=89
-dao4 lao3 	到老	c=0 d=0.0873716 t=89
-dao4 lao3 le5 	到老了	c=1 d=0.878095 t=89
-dao4 zhang3 	道長	c=0 d=0.0860708 t=89
-de5 	的	c=0 d=0.182686 t=89
-de5 dian4 ying3 	的電影	c=1 d=0.860708 t=89
-de5 shi2 hou4 	的時候	c=0 d=0.0932394 t=89
-de5 shi2 hou4 cheng2 li4 ding4 dan1 	的時候成立訂單	c=1 d=0.937067 t=89
-deng3 	等	c=0 d=0.071177 t=89
-deng3 deng3 	等等	c=0 d=0.0690734 t=89
-deng3 deng3 hui4 lai2 	等等會來	c=1 d=0.694197 t=89
-deng3 ta1 guo4 lai2 	等他過來	c=1 d=0.715338 t=89
-dian4 ying3 	電影	c=0 d=0.0856415 t=89
-ding4 dan1 	訂單	c=0 d=0.0932394 t=89
-dou1 	都	c=1 d=1.07108 t=89
-dou1 ke3 yi3 	都可以	c=0 d=0.0794534 t=89
-dou1 kuai4 	都快	c=0 d=0.0869358 t=89
-dou1 kuai4 bei4 ta1 zhui1 	都快被他追	c=1 d=0.873716 t=89
-dui4 	對	c=1 d=0.690734 t=89
-dun4 	頓	c=2 d=1.41291 t=89
-en1 en1 	恩恩	c=1 d=0.806541 t=89
-gang1 cai2 	剛纔	c=0 d=0.0722527 t=89
-gang1 cai2 wang4 ji4 wen4 le5 	剛纔忘記問了	c=1 d=0.726149 t=89
-gao1 zhao1 	高招	c=1 d=0.771052 t=89
-gei3 	給	c=0 d=0.099005 t=89
-gei3 zi4 ji3 	給自己	c=1 d=0.995012 t=89
-guo4 qu4 	過去	c=0 d=0.0737123 t=89
-ha1 	哈	c=1 d=0.99005 t=89
-hai2 ke3 yi3 	還可以	c=0 d=0.0891366 t=89
-hai2 ke3 yi3 la5 	還可以啦	c=1 d=0.895834 t=89
-han4 	和	c=1 d=0.960789 t=89
-hao3 	好	c=1 d=0.71177 t=89
-hao3 le5 	好了	c=0 d=0.0790571 t=89
-hou4 xuan3 	候選	c=2 d=1.32732 t=89
-hui4 lai2 	會來	c=0 d=0.0690734 t=89
-ji1 qi4 	機器	c=0 d=0.0946485 t=89
-jia1 	家	c=0 d=0.0771052 t=89
-jia1 shang4 	加上	c=1 d=0.860975 t=89
-jiang1 shi1 	殭屍	c=0 d=0.0860708 t=89
-jiang1 shi1 dao4 zhang3 	殭屍道長	c=1 d=0.865022 t=89
-jiang3 de5 	講的	c=2 d=1.35751 t=89
-jiu4 hui4 	就會	c=0 d=0.0927743 t=89
-kai1 kai1 	開開	c=0 d=0.0644036 t=89
-kai1 kai1 kan4 	開開看	c=1 d=0.647265 t=89
-kan4 	看	c=0 d=0.0644036 t=89
-kan4 de5 chu1 lai2 	看得出來	c=0 d=0.0946485 t=89
-kan4 de5 chu1 lai2 shi4 cong2 na3 yi1 tai2 ji1 qi4 lai2 de5 ma5 	看得出來是從哪一臺機器來的嗎	c=1 d=0.951229 t=89
-ke3 shi4 	可是	c=0 d=0.0900325 t=89
-ke3 shi4 zhe4 xie1 lan2 wei4 wo3 	可是這些欄位我	c=1 d=0.904837 t=89
-ke3 yi3 	可以	c=1 d=0.855902 t=89
-ke3 yi3 jia1 	可以家	c=1 d=0.774916 t=89
-ke3 yi3 yong4 	可以用	c=0 d=0.0744532 t=89
-la5 	啦	c=0 d=0.0891366 t=89
-lai2 de5 	來的	c=0 d=0.0946485 t=89
-lan2 wei4 	欄位	c=0 d=0.0900325 t=89
-lao3 	老	c=0 d=0.164979 t=89
-le5 	了	c=0 d=0.0873716 t=89
-lin2 	林	c=1 d=0.847894 t=89
-ma5 	嗎	c=1 d=1.11485 t=89
-mei2 a1 	沒阿	c=1 d=0.965605 t=89
-men5 	們	c=1 d=0.909373 t=89
-mo2 	麼	c=0 d=0.0748264 t=89
-na3 	哪	c=0 d=0.0946485 t=89
-na3 ge5 	那個	c=0 d=0.0683861 t=89
-na3 ge5 shi4 	那個是	c=1 d=0.687289 t=89
-na4 	那	c=0 d=0.167601 t=89
-na4 bian1 jiu4 hui4 yong4 dao4 	那邊就會用到	c=1 d=0.932394 t=89
-na4 jiu4 	那就	c=0 d=0.0798516 t=89
-na4 jiu4 zhe4 me5 ban4 	那就這麼辦	c=1 d=0.802519 t=89
-na4 shi2 hou4 zen3 mo2 	那時候怎麼	c=1 d=0.752014 t=89
-ni3 	你	c=0 d=0.0826959 t=89
-ni3 cai2 	你才	c=0 d=0.0822835 t=89
-ni3 cai2 lao3 	你才老	c=1 d=0.826959 t=89
-ni3 quan2 jia1 dou1 lao3 	你全家都老	c=1 d=0.831104 t=89
-niao3 	鳥	c=0 d=0.0759572 t=89
-pao3 bu4 	跑步	c=0 d=0.088692 t=89
-pei4 zhi4 	配置	c=0 d=0.0647265 t=89
-qu3 de5 	取的	c=1 d=0.970446 t=89
-qu4 	去	c=0 d=0.088692 t=89
-qu4 pao3 bu4 	去跑步	c=1 d=0.891366 t=89
-quan2 jia1 	全家	c=0 d=0.0826959 t=89
-shang4 	上	c=0 d=0.0755784 t=89
-shang4 ce4 shi4 	上測試	c=1 d=0.759572 t=89
-she2 me5 	什麼	c=1 d=1.07099 t=89
-shi2 hou4 	時候	c=0 d=0.0748264 t=89
-shi4 	是	c=0 d=0.135084 t=89
-shi4 cong2 	是從	c=0 d=0.0946485 t=89
-shu3 xu1 guan3 	鼠鬚管	c=1 d=0.721773 t=89
-shu3 xu1 guan3 pei4 zhi4 	鼠鬚管配置	c=1 d=0.650509 t=89
-shuo1 	說	c=0 d=0.0951229 t=89
-ta1 bu4 	他不	c=0 d=0.0666977 t=89
-ta1 bu4 shi4 	他不是	c=1 d=0.67032 t=89
-ta1 guo4 lai2 	他過來	c=0 d=0.071177 t=89
-tiao4 	跳	c=0 d=0.0737123 t=89
-tui1 shang4 	推上	c=0 d=0.0790571 t=89
-tui1 shang4 xian4 jiu4 hao3 le5 	推上現就好了	c=1 d=0.794534 t=89
-wan2 quan2 	完全	c=1 d=0.733447 t=89
-wang4 ji4 	忘記	c=0 d=0.139284 t=89
-wei2 	爲	c=0 d=0.0715338 t=89
-wei2 she2 me5 	爲什麼	c=1 d=0.718924 t=89
-wen4 le5 	問了	c=0 d=0.0722527 t=89
-wo3 	我	c=0 d=0.244874 t=89
-wo3 hai2 	我還	c=0 d=0.0763379 t=89
-wo3 hai2 yi3 wei2 you3 she2 me5 	我還以爲有什麼	c=1 d=0.767206 t=89
-wo3 han4 	我和	c=0 d=0.0951229 t=89
-wo3 han4 zhou1 dong3 shuo1 yi1 xia4 	我和周董說一下	c=1 d=0.955997 t=89
-wo3 men5 	我們	c=0 d=0.0806541 t=89
-wo3 wang4 ji4 	我忘記	c=1 d=0.67368 t=89
-wo3 zuo2 tian1 	我昨天	c=1 d=0.882497 t=89
-wu1 wu1 	嗚嗚	c=1 d=0.869358 t=89
-xian4 jiu4 	現就	c=0 d=0.0790571 t=89
-xian4 zai4 	現在	c=0 d=0.0970446 t=89
-xian4 zai4 xiang3 dao4 de5 zhi3 you3 	現在想到的只有	c=1 d=0.97531 t=89
-xiang3 dao4 	想到	c=0 d=0.0970446 t=89
-xiang3 shou4 	享受	c=0 d=0.0733447 t=89
-xiao3 de5 	小的	c=1 d=0.818731 t=89
-xiong2 yi1 	熊一	c=1 d=0.803501 t=89
-xiong2 yi1 you3 guo4 qu4 tiao4 ma5 	熊一有過去跳嗎	c=1 d=0.740818 t=89
-xu1 yao4 	需要	c=0 d=0.165599 t=89
-xu1 yao4 yong4 dao4 zhe4 xie1 zi1 xun4 	需要用到這些資訊	c=1 d=0.941765 t=89
-yao4 	要	c=1 d=0.683861 t=89
-ye3 	也	c=0 d=0.0806541 t=89
-ye3 zhi3 you3 wo3 men5 	也只有我們	c=1 d=0.810584 t=89
-yi1 kai1 shi3 	一開始	c=0 d=0.0718924 t=89
-yi1 kai1 shi3 xu1 yao4 dai4 	一開始需要帶	c=1 d=0.722527 t=89
-yi1 tai2 	一臺	c=0 d=0.0946485 t=89
-yi1 xia4 	一下	c=0 d=0.0951229 t=89
-yi3 hou4 	以後	c=0 d=0.0794534 t=89
-yi3 wei2 	以爲	c=0 d=0.0763379 t=89
-ying1 	英	c=1 d=0.856415 t=89
-yong4 bu2 dao4 	用不到	c=1 d=0.918512 t=89
-yong4 dao4 	用到	c=0 d=0.186481 t=89
-you3 	有	c=1 d=1.06272 t=89
-you3 ce4 shi4 	有測試	c=1 d=0.985112 t=89
-you4 	又	c=1 d=0.88692 t=89
-zai4 	在	c=2 d=1.59106 t=89
-zen3 	怎	c=0 d=0.0748264 t=89
-zhang4 hao4 	帳號	c=0 d=0.0694197 t=89
-zhao4 ban4 	照辦	c=1 d=0.822835 t=89
-zhe4 me5 	這麼	c=0 d=0.155809 t=89
-zhe4 me5 niao3 	這麼鳥	c=1 d=0.763379 t=89
-zhe4 xie1 	這些	c=0 d=0.258192 t=89
-zhe4 xie1 dou1 ke3 yi3 yong4 	這些都可以用	c=1 d=0.748264 t=89
-zhe4 yang4 	這樣	c=0 d=0.0794534 t=89
-zhe4 yang4 yi3 hou4 dou1 ke3 yi3 ce4 shi4 	這樣以後都可以測試	c=1 d=0.798516 t=89
-zhen1 	真	c=0 d=0.0733447 t=89
-zhen1 xiang3 shou4 	真享受	c=1 d=0.737123 t=89
-zheng4 	正	c=1 d=0.852144 t=89
-zhi2 jie1 	直接	c=0 d=0.0782705 t=89
-zhi2 jie1 jia1 shang4 	直接加上	c=1 d=0.786628 t=89
-zhi3 you3 	只有	c=0 d=0.177698 t=89
-zhi4 shao4 	至少	c=1 d=0.744532 t=89
-zhou1 dong3 	周董	c=1 d=1.02287 t=89
-zhui1 	追	c=0 d=0.0869358 t=89
-zi1 xun4 	資訊	c=0 d=0.0937067 t=89
-zi4 	字	c=1 d=0.66365 t=89
-zi4 ji3 	自己	c=0 d=0.099005 t=89
-zuo2 tian1 	昨天	c=0 d=0.0878095 t=89
-zuo4 	做	c=1 d=1 t=89
+a1 	阿	c=1 d=0.790571 t=146
+ai1 	哎	c=1 d=0.900325 t=146
+an4 	按	c=4 d=3.54797 t=134
+ba2 	拔	c=1 d=0.980199 t=146
+ba5 	吧	c=0 d=0.1 t=104
+ban4 	辦	c=0 d=0.0798516 t=146
+bang1 bang1 	幫幫	c=4 d=3.92131 t=145
+bei4 ta1 	被他	c=0 d=0.0869358 t=146
+bian1 	邊	c=0 d=0.0927743 t=146
+bian4 cheng2 	變成	c=0 d=0.1 t=120
+bian4 cheng2 yuan2 hu2 kuang1 kuang1 	變成圓弧匡匡	c=1 d=1 t=121
+bian4 min2 	便民	c=0 d=0.1 t=94
+bian4 xing2 jin1 gang1 	變形金剛	c=1 d=1 t=146
+bo1 	播	c=1 d=0.843665 t=146
+bu2 	不	c=0 d=0.1 t=103
+bu2 shi4 	不是	c=0 d=0.194176 t=106
+bu2 shi4 bian4 min2 	不是便民	c=1 d=1 t=95
+ce4 shi4 	測試	c=1 d=1.32086 t=146
+ce4 shi4 zhang4 hao4 	測試帳號	c=2 d=1.39885 t=146
+cheng2 li4 	成立	c=0 d=0.0932394 t=146
+chong2 	重	c=1 d=0.839457 t=146
+chong2 xin1 an1 zhuang1 	重新安裝	c=1 d=0.65377 t=146
+cuo4 	錯	c=0 d=0.1 t=103
+cuo4 wu4 	錯誤	c=0 d=0.1 t=107
+cuo4 wu4 xun4 xi2 	錯誤訊息	c=1 d=1 t=108
+da3 de5 	打得	c=0 d=0.1 t=124
+da3 de5 dao4 	打得到	c=1 d=1 t=125
+dai4 	帶	c=0 d=0.0718924 t=146
+dao4 	到	c=0 d=0.1 t=124
+dao4 lao3 	到老	c=0 d=0.0873716 t=146
+dao4 lao3 le5 	到老了	c=1 d=0.878095 t=146
+dao4 zhang3 	道長	c=0 d=0.0860708 t=146
+dao4 zhe4 	到這	c=0 d=0.1 t=91
+de5 	的	c=0 d=0.383844 t=146
+de5 dian4 ying3 	的電影	c=1 d=0.860708 t=146
+de5 hao3 chu4 jiu4 shi4 duo1 fang4 ji3 zhang1 zhao4 pian4 	的好處就是多放幾張照片	c=1 d=1 t=93
+de5 shi2 hou4 	的時候	c=0 d=0.0932394 t=146
+de5 shi2 hou4 cheng2 li4 ding4 dan1 	的時候成立訂單	c=1 d=0.937067 t=146
+deng3 	等	c=0 d=0.071177 t=146
+deng3 deng3 	等等	c=0 d=0.0690734 t=146
+deng3 deng3 hui4 lai2 	等等會來	c=1 d=0.694197 t=146
+deng3 ta1 guo4 lai2 	等他過來	c=1 d=0.715338 t=146
+dian4 ying3 	電影	c=0 d=0.0856415 t=146
+ding4 dan1 	訂單	c=0 d=0.0932394 t=146
+dou1 	都	c=1 d=1.07108 t=146
+dou1 ke3 yi3 	都可以	c=0 d=0.0794534 t=146
+dou1 kuai4 	都快	c=0 d=0.0869358 t=146
+dou1 kuai4 bei4 ta1 zhui1 	都快被他追	c=1 d=0.873716 t=146
+dou1 neng2 	都能	c=0 d=0.1 t=136
+dui4 	對	c=1 d=0.690734 t=146
+dui4 a1 	對啊	c=1 d=1 t=120
+dun4 	頓	c=2 d=1.41291 t=146
+duo1 fang4 	多放	c=0 d=0.1 t=92
+e2 	額	c=0 d=0.199005 t=93
+en1 en1 	恩恩	c=2 d=1.39316 t=146
+fei1 	非	c=1 d=1 t=114
+fu4 	付	c=1 d=1 t=116
+gai3 	改	c=0 d=0.1 t=106
+gang1 cai2 	剛纔	c=0 d=0.0722527 t=146
+gang1 cai2 wang4 ji4 wen4 le5 	剛纔忘記問了	c=1 d=0.726149 t=146
+gao1 xia4 	高下	c=1 d=1 t=138
+gao1 zhao1 	高招	c=1 d=0.771052 t=146
+ge5 	個	c=0 d=0.199005 t=93
+gei3 	給	c=0 d=0.099005 t=146
+gei3 ta1 	給他	c=0 d=0.1 t=98
+gei3 zi4 ji3 	給自己	c=1 d=0.995012 t=146
+gong1 ju4 	工具	c=0 d=0.1 t=106
+gou4 	夠	c=0 d=0.1 t=96
+guan1 le5 	關了	c=0 d=0.1 t=125
+guo4 qu4 	過去	c=0 d=0.0737123 t=146
+ha1 	哈	c=1 d=0.99005 t=146
+ha1 ha1 	哈哈	c=1 d=1 t=112
+hai2 ke3 yi3 	還可以	c=0 d=0.0891366 t=146
+hai2 ke3 yi3 la5 	還可以啦	c=1 d=0.895834 t=146
+han4 	和	c=1 d=0.960789 t=146
+hao3 	好	c=1 d=0.71177 t=146
+hao3 chu4 	好處	c=0 d=0.1 t=92
+hao3 le5 	好了	c=0 d=0.0790571 t=146
+hen3 jiu3 le5 	很久了	c=0 d=0.1 t=105
+hou4 xuan3 	候選	c=2 d=1.32732 t=146
+hui4 lai2 	會來	c=0 d=0.0690734 t=146
+hui4 yuan2 	會員	c=1 d=1 t=117
+huo4 	或	c=1 d=1 t=118
+ji1 qi4 	機器	c=0 d=0.0946485 t=146
+ji3 miao3 	幾秒	c=0 d=0.1 t=136
+ji3 zhang1 	幾張	c=0 d=0.1 t=92
+jia1 	加	c=1 d=1 t=109
+jia1 	家	c=0 d=0.0771052 t=146
+jia1 da4 	加大	c=0 d=0.1 t=104
+jia1 shang4 	加上	c=1 d=0.860975 t=146
+jian4 kang1 jian3 cha2 	健康檢查	c=0 d=0.1 t=121
+jian4 kang1 jian3 cha2 de5 	健康檢查的	c=1 d=1 t=122
+jiang1 shi1 	殭屍	c=0 d=0.0860708 t=146
+jiang1 shi1 dao4 zhang3 	殭屍道長	c=1 d=0.865022 t=146
+jiang3 de5 	講的	c=2 d=1.35751 t=146
+jiu4 hui4 	就會	c=0 d=0.0927743 t=146
+jiu4 shi4 	就是	c=0 d=0.1 t=92
+kai1 kai1 	開開	c=0 d=0.0644036 t=146
+kai1 kai1 kan4 	開開看	c=1 d=0.647265 t=146
+kan4 	看	c=1 d=0.850951 t=146
+kan4 de5 chu1 lai2 	看得出來	c=0 d=0.0946485 t=146
+kan4 de5 chu1 lai2 shi4 cong2 na3 yi1 tai2 ji1 qi4 lai2 de5 ma5 	看得出來是從哪一臺機器來的嗎	c=1 d=0.951229 t=146
+kan4 kan4 	看看	c=1 d=1 t=129
+kan4 kan4 	闞闞	c=0 d=0.1 t=127
+kan4 kan4 tu4 she2 me5 	闞闞兔什麼	c=1 d=1 t=128
+kan4 yi1 xia4 	看一下	c=0 d=0.1 t=106
+ke3 shi4 	可是	c=0 d=0.0900325 t=146
+ke3 shi4 zhe4 xie1 lan2 wei4 wo3 	可是這些欄位我	c=1 d=0.904837 t=146
+ke3 yi3 	可以	c=1 d=0.855902 t=146
+ke3 yi3 guan1 le5 	可以關了	c=1 d=1 t=126
+ke3 yi3 jia1 	可以家	c=1 d=0.774916 t=146
+ke3 yi3 yong4 	可以用	c=0 d=0.0744532 t=146
+kuang1 	匡	c=0 d=0.1 t=120
+la5 	啦	c=0 d=0.0891366 t=146
+lai2 de5 	來的	c=0 d=0.0946485 t=146
+lan2 wei4 	欄位	c=0 d=0.0900325 t=146
+lao3 	老	c=0 d=0.164979 t=146
+le5 	了	c=0 d=0.0873716 t=146
+li4 	力	c=1 d=1 t=139
+li4 dao4 	力道	c=0 d=0.1 t=96
+li4 dao4 gou4 ma5 	力道夠嗎	c=1 d=1 t=97
+lian2 	連	c=0 d=0.1 t=136
+lian2 ji3 miao3 shang4 jia4 dou1 neng2 zhi1 dao4 	連幾秒上架都能知道	c=1 d=1 t=137
+lin2 	林	c=1 d=0.847894 t=146
+long2 xia1 	龍蝦	c=1 d=1 t=144
+lou2 na2 ma5 	樓拿嗎	c=1 d=1 t=123
+ma5 	嗎	c=2 d=1.75154 t=146
+mei2 a1 	沒阿	c=1 d=0.965605 t=146
+mei2 you3 	沒有	c=0 d=0.1 t=112
+mei2 you3 mian3 yun4 zi1 ge2 	沒有免運資格	c=1 d=1 t=113
+men5 	們	c=1 d=0.909373 t=146
+mian3 	免	c=0 d=0.1 t=112
+mo2 	麼	c=0 d=0.0748264 t=146
+na3 	哪	c=0 d=0.0946485 t=146
+na3 ge5 	那個	c=0 d=0.0683861 t=146
+na3 ge5 shi4 	那個是	c=1 d=0.687289 t=146
+na4 	那	c=0 d=0.284632 t=146
+na4 bian1 jiu4 hui4 yong4 dao4 	那邊就會用到	c=1 d=0.932394 t=146
+na4 e2 ge5 shi4 zheng4 ji1 	那額個是政績	c=1 d=1 t=94
+na4 jiu4 	那就	c=0 d=0.0798516 t=146
+na4 jiu4 zhe4 me5 ban4 	那就這麼辦	c=1 d=0.802519 t=146
+na4 shi2 hou4 zen3 mo2 	那時候怎麼	c=1 d=0.752014 t=146
+na4 wo3 kan4 yi1 xia4 shi4 bu2 shi4 yao4 gai3 ce4 shi4 de5 gong1 ju4 	那我看一下是不是要改測試的工具	c=1 d=1 t=107
+ni3 	你	c=1 d=0.994584 t=146
+ni3 cai2 	你才	c=0 d=0.0822835 t=146
+ni3 cai2 lao3 	你才老	c=1 d=0.826959 t=146
+ni3 quan2 jia1 dou1 lao3 	你全家都老	c=1 d=0.831104 t=146
+niao3 	鳥	c=0 d=0.0759572 t=146
+o1 o1 	噢噢	c=1 d=1 t=91
+pan4 	判	c=1 d=1 t=140
+pao3 bu4 	跑步	c=0 d=0.088692 t=146
+pei4 zhi4 	配置	c=0 d=0.0647265 t=146
+qian2 ji3 tian1 	前幾天	c=0 d=0.1 t=91
+qian2 ji3 tian1 you3 kan4 dao4 zhe4 e2 ge5 xin1 wen2 	前幾天有看到這額個新聞	c=1 d=1 t=92
+qu3 de5 	取的	c=1 d=0.970446 t=146
+qu4 	去	c=0 d=0.088692 t=146
+qu4 pao3 bu4 	去跑步	c=1 d=0.891366 t=146
+quan2 jia1 	全家	c=0 d=0.0826959 t=146
+shang4 	上	c=1 d=0.952666 t=146
+shang4 ce4 shi4 	上測試	c=1 d=0.759572 t=146
+shang4 jia4 	上架	c=0 d=0.1 t=136
+she2 me5 	什麼	c=2 d=1.82408 t=146
+shi2 hou4 	時候	c=0 d=0.0748264 t=146
+shi4 	是	c=0 d=0.260179 t=146
+shi4 cong2 	是從	c=0 d=0.0946485 t=146
+shou3 jing4 	手勁	c=0 d=0.1 t=103
+shu3 xu1 guan3 	鼠鬚管	c=1 d=0.721773 t=146
+shu3 xu1 guan3 pei4 zhi4 	鼠鬚管配置	c=1 d=0.650509 t=146
+shuo1 	說	c=0 d=0.0951229 t=146
+ta1 bu4 	他不	c=0 d=0.0666977 t=146
+ta1 bu4 shi4 	他不是	c=1 d=0.67032 t=146
+ta1 de5 	他的	c=0 d=0.1 t=103
+ta1 de5 shou3 jing4 zhen1 de5 bu2 cuo4 	他的手勁真的不錯	c=1 d=1 t=104
+ta1 guo4 lai2 	他過來	c=0 d=0.071177 t=146
+tiao4 	跳	c=0 d=0.0737123 t=146
+tu4 	兔	c=0 d=0.1 t=127
+tu4 	吐	c=1 d=1 t=130
+tui1 shang4 	推上	c=0 d=0.0790571 t=146
+tui1 shang4 xian4 jiu4 hao3 le5 	推上現就好了	c=1 d=0.794534 t=146
+wan2 quan2 	完全	c=1 d=0.733447 t=146
+wang4 ji4 	忘記	c=0 d=0.139284 t=146
+wei2 	爲	c=0 d=0.0715338 t=146
+wei2 she2 me5 	爲什麼	c=1 d=0.718924 t=146
+wen4 le5 	問了	c=0 d=0.0722527 t=146
+wo3 	我	c=0 d=0.266022 t=146
+wo3 bang1 ni3 	我幫你	c=0 d=0.1 t=104
+wo3 bang1 ni3 jia1 da4 ba5 	我幫你加大吧	c=1 d=1 t=105
+wo3 hai2 	我還	c=0 d=0.0763379 t=146
+wo3 hai2 yi3 wei2 you3 she2 me5 	我還以爲有什麼	c=1 d=0.767206 t=146
+wo3 han4 	我和	c=0 d=0.0951229 t=146
+wo3 han4 zhou1 dong3 shuo1 yi1 xia4 	我和周董說一下	c=1 d=0.955997 t=146
+wo3 men5 	我們	c=0 d=0.0806541 t=146
+wo3 wang4 ji4 	我忘記	c=1 d=0.67368 t=146
+wo3 ye3 	我也	c=0 d=0.1 t=98
+wo3 ye3 bu4 	我也不	c=0 d=0.1 t=110
+wo3 ye3 bu4 zhi3 zhi1 dao4 	我也不只知道	c=1 d=1 t=111
+wo3 zuo2 tian1 	我昨天	c=1 d=0.882497 t=146
+wu1 wu1 	嗚嗚	c=1 d=0.869358 t=146
+xia4 ci4 	下次	c=0 d=0.1 t=98
+xia4 ci4 wo3 ye3 gei3 ta1 	下次我也給他	c=1 d=1 t=99
+xian3 shi4 	顯示	c=1 d=1 t=119
+xian4 jiu4 	現就	c=0 d=0.0790571 t=146
+xian4 zai4 	現在	c=0 d=0.0970446 t=146
+xian4 zai4 xiang3 dao4 de5 zhi3 you3 	現在想到的只有	c=1 d=0.97531 t=146
+xiang3 dao4 	想到	c=0 d=0.0970446 t=146
+xiang3 shou4 	享受	c=0 d=0.0733447 t=146
+xiao3 de5 	小的	c=1 d=0.818731 t=146
+xie4 xie5 	謝謝	c=1 d=1 t=127
+xin1 wen2 	新聞	c=0 d=0.1 t=91
+xiong2 yi1 	熊一	c=1 d=0.803501 t=146
+xiong2 yi1 you3 guo4 qu4 tiao4 ma5 	熊一有過去跳嗎	c=1 d=0.740818 t=146
+xu1 yao4 	需要	c=0 d=0.165599 t=146
+xu1 yao4 yong4 dao4 zhe4 xie1 zi1 xun4 	需要用到這些資訊	c=1 d=0.941765 t=146
+xun4 xi2 	訊息	c=0 d=0.1 t=107
+yao4 	要	c=1 d=0.683861 t=146
+ye1 	耶	c=0 d=0.1 t=105
+ye3 	也	c=0 d=0.0806541 t=146
+ye3 zhi3 you3 wo3 men5 	也只有我們	c=1 d=0.810584 t=146
+yi1 ci4 	一次	c=1 d=1 t=135
+yi1 kai1 shi3 	一開始	c=0 d=0.0718924 t=146
+yi1 kai1 shi3 xu1 yao4 dai4 	一開始需要帶	c=1 d=0.722527 t=146
+yi1 tai2 	一臺	c=0 d=0.0946485 t=146
+yi1 xia4 	一下	c=0 d=0.0951229 t=146
+yi3 hou4 	以後	c=0 d=0.0794534 t=146
+yi3 ku1 	以哭	c=1 d=1 t=143
+yi3 wei2 	以爲	c=0 d=0.0763379 t=146
+yi4 	易	c=1 d=1 t=115
+ying1 	英	c=1 d=0.856415 t=146
+yong4 bu2 dao4 	用不到	c=1 d=0.918512 t=146
+yong4 dao4 	用到	c=0 d=0.186481 t=146
+you3 	有	c=1 d=1.06272 t=146
+you3 ce4 shi4 	有測試	c=1 d=0.985112 t=146
+you3 kai1 ma5 	有開嗎	c=1 d=1 t=96
+you3 kan4 	有看	c=0 d=0.1 t=91
+you4 	又	c=1 d=0.88692 t=146
+yuan2 hu2 	圓弧	c=0 d=0.1 t=120
+yun4 	運	c=0 d=0.1 t=112
+zai4 	再	c=1 d=1 t=133
+zai4 	在	c=2 d=1.59106 t=146
+zen3 	怎	c=0 d=0.0748264 t=146
+zhang4 hao4 	帳號	c=0 d=0.0694197 t=146
+zhao4 ban4 	照辦	c=1 d=0.822835 t=146
+zhao4 pian4 	照片	c=0 d=0.1 t=92
+zhe4 	這	c=0 d=0.1 t=105
+zhe4 hen3 jiu3 le5 ye1 	這很久了耶	c=1 d=1 t=106
+zhe4 me5 	這麼	c=0 d=0.155809 t=146
+zhe4 me5 niao3 	這麼鳥	c=1 d=0.763379 t=146
+zhe4 xie1 	這些	c=0 d=0.258192 t=146
+zhe4 xie1 dou1 ke3 yi3 yong4 	這些都可以用	c=1 d=0.748264 t=146
+zhe4 yang4 	這樣	c=0 d=0.0794534 t=146
+zhe4 yang4 yi3 hou4 dou1 ke3 yi3 ce4 shi4 	這樣以後都可以測試	c=1 d=0.798516 t=146
+zhen1 	真	c=0 d=0.0733447 t=146
+zhen1 de5 	真的	c=0 d=0.1 t=103
+zhen1 shuang3 	真爽	c=1 d=1 t=90
+zhen1 xiang3 shou4 	真享受	c=1 d=0.737123 t=146
+zheng4 	正	c=1 d=0.852144 t=146
+zheng4 ji1 	政績	c=0 d=0.1 t=93
+zhi1 dao4 	知道	c=0 d=0.1 t=136
+zhi2 jie1 	直接	c=0 d=0.0782705 t=146
+zhi2 jie1 jia1 shang4 	直接加上	c=1 d=0.786628 t=146
+zhi3 you3 	只有	c=0 d=0.177698 t=146
+zhi3 zhi1 dao4 	只知道	c=0 d=0.1 t=110
+zhi4 shao4 	至少	c=1 d=0.744532 t=146
+zhou1 dong3 	周董	c=1 d=1.02287 t=146
+zhui1 	追	c=0 d=0.0869358 t=146
+zi1 ge2 	資格	c=0 d=0.1 t=112
+zi1 xun4 	資訊	c=0 d=0.0937067 t=146
+zi4 	字	c=1 d=0.66365 t=146
+zi4 ji3 	自己	c=0 d=0.099005 t=146
+zuo2 tian1 	昨天	c=0 d=0.0878095 t=146
+zuo4 	做	c=1 d=1 t=146
