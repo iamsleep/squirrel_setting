@@ -1,0 +1,23 @@
+--- 
+patch: 
+  preset_color_schemes: 
+    starcraft: 
+      author: "Contralisk <contralisk@gmail.com>, original artwork by Blizzard Entertainment"
+      back_color: 0x000000
+      border_color: 0x1010a0
+      candidate_text_color: 0x30bb55
+      hilited_back_color: 0x000000
+      hilited_candidate_back_color: 0x000000
+      hilited_candidate_text_color: 0x60ffa8
+      hilited_text_color: 0xfecb96
+      name: 星際我爭霸／StarCraft
+      text_color: 0xccaa88
+  style: 
+    color_scheme: starcraft
+    font_face: "PingFang TC"
+    font_point: 15
+    horizontal: true
+    inline_preedit: true
+    display_tray_icon: true
+  app_options:
+    com.googlecode.iterm2: {}
