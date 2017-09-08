@@ -1,0 +1,26 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin.userdb
+#@/db_type	userdb
+#@/rime_version	1.2.9
+#@/tick	23
+#@/user_id	43871507-6890-4843-8e9f-91bba8ad7d3a
+chu 	出	c=1 d=0.927743 t=23
+dan 	但	c=1 d=1 t=23
+dan shi 	但是	c=1 d=1 t=23
+duan kou 	端口	c=1 d=0.941765 t=23
+er ji 	耳機	c=1 d=0.946485 t=23
+huo 	活	c=1 d=0.97531 t=23
+ji ci 	幾次	c=1 d=0.970446 t=23
+jiu 	就	c=2 d=1.90268 t=23
+kuai 	快	c=1 d=0.932394 t=23
+me 	麼	c=2 d=1.90823 t=23
+ming ming 	明明	c=1 d=0.980199 t=23
+qu 	去	c=1 d=0.955997 t=23
+tao lun 	討論	c=1 d=0.951229 t=23
+wan ou 	玩偶	c=1 d=0.900325 t=23
+wo 	我	c=1 d=0.904837 t=23
+ye 	也	c=1 d=0.913931 t=23
+ye 	夜	c=1 d=0.909373 t=23
+you 	有	c=2 d=1.95581 t=23
+yue 	月	c=1 d=0.99005 t=23
+zhe 	這	c=1 d=0.918512 t=23
